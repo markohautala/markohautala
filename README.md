@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markohautala
 - 👀 I’m interested in working out, producing music, and learning code!
-- 🌱 I’m currently learning html, css and backend programs like python. Lot more to come!
+- 🌱 I’m currently learning html, css and backend programs like JavaScript and python. Lot more to come!
 - 📫 How to reach me - markohautala@live.se
 
 <!---
