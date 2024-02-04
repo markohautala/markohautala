@@ -9,7 +9,7 @@
 
 
 <hr>
-<h3>🛠️ My fullstack tech knowledge:</h3>
+<h3>🛠️ My fullstack tech toolkit:</h3>
 
 ![PYTHON](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
