@@ -1,5 +1,7 @@
+<h3>Fullstack software developer</h3>
+
 - 👋 Hi, I’m @markohautala
-- 👀 I’m interested in working out, producing music, and learning code!
+- 👀 I’m interested in working out, producing music, and writing code!
 - 🌱 I’m currently upskilling in Django, Bootstrap, Advanced JS, jQuery and alot more.
 - 📫 How to reach me - markohautala@live.se
 
