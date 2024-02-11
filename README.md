@@ -25,6 +25,8 @@
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" height="50">
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50">
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" alt="woocommerce" height="40">
 
 
 <p>
