@@ -2,7 +2,7 @@
 
 - 👋 Hi there! I’m @markohautala
 - 🎓 I’m an educated gymnastic/PE-teacher, making the exciting transition to a full-stack programmer. I enjoy life and amongst my hobbies are producing music and working out/staying healthy.
-- 💻 I’m currently upskilling: in React, Angular, jQuery and APIs.
+- 💻 I’m currently upskilling in: React, Angular, jQuery and APIs.
 - 📫 How to reach me - markohautala@live.se
 
 
