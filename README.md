@@ -11,11 +11,12 @@
 
 
 <hr>
-<h3>🛠️ My fullstack tech toolkit:</h3>
+<h3>🛠️ My tech toolkit:</h3>
 
 ![PYTHON](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" height="45">
 ![BOOTSTRAP](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
 ![VISUAL STUDIO CODE](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
 ![JQUERY](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg)
@@ -23,10 +24,11 @@
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="50">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="65">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" height="50">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50">
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" height="50">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" alt="woocommerce" height="40">
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" alt="angularjs" height="35">
 
 
 <p>
