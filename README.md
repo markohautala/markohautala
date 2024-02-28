@@ -12,35 +12,29 @@
 <hr>
 <h3>🛠️ My tech toolkit:</h3>
 
-![PYTHON](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
-![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" height="45">
-![BOOTSTRAP](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
-![VISUAL STUDIO CODE](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
-![JQUERY](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg)
-![MYSQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="50">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="65">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png" alt="woocommerce" height="40">
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" alt="angularjs" height="35">
-
-
-<p>
-<img  src="https://img.shields.io/badge/Github-0b1a45?style=for-the-badge&logo=Github&logoColor=#3A506B" alt="github">
-<img  src="https://img.shields.io/badge/Markdown-0b1a45?style=for-the-badge&logo=Markdown&logoColor=#3A506B" alt="Markdown">
-<img  src="https://img.shields.io/badge/Git-0b1a45?style=for-the-badge&logo=Git&logoColor=#3A506B" alt="Git">
-<img  src="https://img.shields.io/badge/PostgreSQL-0b1a45?style=for-the-badge&logo=PostgreSQL&logoColor=#3A506B" alt="postgres">
-<img  src="https://img.shields.io/badge/Flask-0b1a45?style=for-the-badge&logo=Flask&logoColor=#3A506B" alt="flask">
-<img  src="https://img.shields.io/badge/API-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="api">
-<img  src="https://img.shields.io/badge/Agile Development-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="agile development">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <img  src="https://img.shields.io/badge/UX Design-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="ux design">
 <img  src="https://img.shields.io/badge/Dev Tools-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="dev tools">
 <img  src="https://img.shields.io/badge/Responsive Design-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="responsive design">
-</p>
+<img  src="https://img.shields.io/badge/API-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="api">
+<img  src="https://img.shields.io/badge/Agile Development-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="agile development">
 
 
