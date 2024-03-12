@@ -1,8 +1,8 @@
 <h3>Fullstack software developer</h3>
 
 - 👋 Hi there! I’m @markohautala
-- 🎓 I’m an educated gymnastic/PE-teacher, making the exciting transition to a full-stack programmer. I enjoy life and amongst my hobbies are producing music and working out/staying healthy.
-- 💻 I’m currently upskilling in: React, Angular, jQuery and APIs.
+- 🎓 I’m an educated teacher, making the exciting transition to a full-stack software developer. I enjoy life and amongst my hobbies are producing music and working out/staying healthy.
+- 💻 I’m currently upskilling in: React, Jest, Flask and Django
 - 📫 How to reach me: markohautala@live.se
 
 
