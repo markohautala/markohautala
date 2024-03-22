@@ -33,6 +33,7 @@
 <img  src="https://img.shields.io/badge/Responsive Design-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="responsive design">
 <img  src="https://img.shields.io/badge/API-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="api">
 <img  src="https://img.shields.io/badge/Agile Development-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="agile development">
+<img  src="https://img.shields.io/badge/Manual/Automated Testing-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="manual & automated testing">
 
 <hr>
 
