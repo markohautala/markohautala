@@ -2,7 +2,7 @@
 
 - 👋 Hi there! I’m @markohautala
 - 🎓 I’m an educated teacher, making the transition to become a full-stack software developer. I enjoy life and amongst my hobbies are producing music and working out.
-- 💻 I’m currently upskilling in: React, Jest, Flask and Django.
+- 💻 I’m currently upskilling in: Flask and Django.
 - 📫 How to reach me: markohautala@live.se
 
 <hr>
