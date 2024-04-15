@@ -2,7 +2,7 @@
 
 - 👋 Hi there! I’m @markohautala
 - 🎓 I’m an educated teacher, making the transition to become a full-stack software developer. I enjoy life and amongst my hobbies are producing music, working out and learning code.
-- 💻 I’m currently upskilling in: DBMS (NoSQL & SQL) and Django.
+- 💻 I’m currently upskilling in: Django.
 - 📫 How to reach me: markohautala@live.se
 
 <hr>
