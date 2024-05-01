@@ -1,4 +1,4 @@
-<h3>Fullstack software developer</h3>
+<h1>Fullstack software developer</h1>
 
 - 👋 Hi there! I’m @markohautala
 - 🎓 I’m an educated teacher, making the transition to become a full-stack software developer. I enjoy life and amongst my hobbies are producing music, working out and learning code.
