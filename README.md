@@ -29,6 +29,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <img  src="https://img.shields.io/badge/UX Design-ffc0cb?style=for-the-badge&logoColor=#3A506B" alt="ux design">
 <img  src="https://img.shields.io/badge/EmailJS-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="EmailJS">
