@@ -32,11 +32,18 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <img  src="https://img.shields.io/badge/UX Design-ffc0cb?style=for-the-badge&logoColor=#3A506B" alt="ux design">
-<img  src="https://img.shields.io/badge/EmailJS-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="EmailJS">
-<img  src="https://img.shields.io/badge/Dev Tools-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="dev tools">
+<img  src="https://img.shields.io/badge/EmailJS-CD5C5C?style=for-the-badge&logoColor=#3A506B" alt="EmailJS">
+<img  src="https://img.shields.io/badge/Dev Tools-CCCCFF?style=for-the-badge&logoColor=#3A506B" alt="dev tools">
 <img  src="https://img.shields.io/badge/Responsive Design-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="responsive design">
-<img  src="https://img.shields.io/badge/API-0b1a45?style=for-the-badge&logoColor=#3A506B" alt="api">
-<img  src="https://img.shields.io/badge/Agile Development-0b1a45?style=for-the-badge&logoColor=#99A3A4" alt="agile development">
+<img  src="https://img.shields.io/badge/API-000000?style=for-the-badge&logoColor=#3A506B" alt="api">
+<img  src="https://img.shields.io/badge/Machine Learning / AI-34495E?style=for-the-badge&logoColor=#3A506B" alt="Machine Learning / AI">
+<img  src="https://img.shields.io/badge/Agile Development-117A65?style=for-the-badge&logoColor=#99A3A4" alt="agile development">
+<img  src="https://img.shields.io/badge/Cloudinary-3246BF?style=for-the-badge&logoColor=#99A3A4" alt="Cloudinary">
+<img  src="https://img.shields.io/badge/Neon.tech Postgres-01E59A?style=for-the-badge&logoColor=#000000" alt="Neon.tech Postgres">
+
+
+
+
 
 <hr>
 
