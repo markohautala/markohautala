@@ -1,12 +1,13 @@
 <h1>Fullstack software developer</h1>
+<h3>With Advanced Frontend Specialization</h3>
 
 - 👋 Hi there! I’m @markohautala
-- 🎓 I’m an educated teacher, making the transition to become a full stack software developer. I enjoy life and amongst my hobbies are producing music, staying healthy and of course, learning new code and improving my skills!
+- 💡 I enjoy creating smooth, user-friendly interfaces and strong backend systems. I have a really good attention to detail, a strong ability to analyze and an ability for quick problem-solving. I’m looking for opportunities to use my skills and grow in a supportive team. I’m always eager to learn and improve.
 - 💻 I’m currently upskilling in: ReactJS, Machine Learning/AI and AWS
 - 📫 How to reach me: markohautala@live.se
 
 <hr>
-<h3>🛠️ My tech toolkit:</h3>
+<h3>🛠️ My full tech toolkit:</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,9 +41,6 @@
 <img  src="https://img.shields.io/badge/Agile Development-117A65?style=for-the-badge&logoColor=#99A3A4" alt="agile development">
 <img  src="https://img.shields.io/badge/Cloudinary-3246BF?style=for-the-badge&logoColor=#99A3A4" alt="Cloudinary">
 <img  src="https://img.shields.io/badge/Neon.tech Postgres-01E59A?style=for-the-badge&logoColor=#000000" alt="Neon.tech Postgres">
-
-
-
 
 
 <hr>
