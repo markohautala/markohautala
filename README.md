@@ -41,6 +41,9 @@
 <img  src="https://img.shields.io/badge/Agile Development-117A65?style=for-the-badge&logoColor=#99A3A4" alt="agile development">
 <img  src="https://img.shields.io/badge/Cloudinary-3246BF?style=for-the-badge&logoColor=#99A3A4" alt="Cloudinary">
 <img  src="https://img.shields.io/badge/Neon.tech Postgres-01E59A?style=for-the-badge&logoColor=#000000" alt="Neon.tech Postgres">
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 <hr>
