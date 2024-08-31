@@ -3,7 +3,7 @@
 
 - 👋 Hi there! I’m @markohautala
 - 💡 I enjoy creating smooth, well documented, user-friendly interfaces and strong backend systems. I have a really good attention to detail, a strong ability to analyze and an ability for quick problem-solving. I’m looking for opportunities to use my skills and grow in a collaborative team. I’m always eager to upskill and improve myself.
-- 💻 I’m currently upskilling in: ReactJS, NextJS and in NodeJS
+- 💻 I’m currently upskilling in: React.js, Next.js and in Node.js
 - 📫 How to reach me: markohautala@live.se
 
 <hr>
