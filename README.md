@@ -1,5 +1,5 @@
 <h1>Fullstack software developer</h1>
-<h3>Advanced Frontend Specialization</h3>
+<h3> With Advanced Frontend Specialization</h3>
 
 - 👋 Hi there! I’m @markohautala
 - 💻 Currently working on projects utilizing: Machine Learning, React, AI, Material UI and TypeScript
