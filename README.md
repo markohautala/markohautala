@@ -2,7 +2,7 @@
 <h3> With Advanced Frontend Specialization</h3>
 
 - 👋 Hi there! I’m @markohautala
-- 💻 Currently working on projects utilizing: Machine Learning, React, AI, Material UI and TypeScript
+- 💻 Currently working on projects utilizing: Machine Learning, React, AI, Redux Toolkit, Material UI and TypeScript
 - 💡 I enjoy creating smooth, well documented, user-friendly interfaces and strong backend systems. I have a really good attention to detail, a strong ability to analyze and an ability for quick problem-solving. I’m looking for opportunities to use my skills and grow in a collaborative team. I’m always eager to upskill, improve myself and learn new things.
 - 📫 How to reach me: markohautala@live.se
 - [My fullstack certificate](https://www.credential.net/70dae9b5-f880-434f-9af6-ba2c5d5e207b#acc.XfSWuONA)
