@@ -8,7 +8,7 @@
 - [My fullstack certificate](https://www.credential.net/70dae9b5-f880-434f-9af6-ba2c5d5e207b#acc.XfSWuONA)
 
 <hr>
-<h3>🛠️ My tech toolkit:</h3>
+<h3>🛠️ My tech toolkit: </h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
