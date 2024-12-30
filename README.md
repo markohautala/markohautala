@@ -75,3 +75,23 @@
         </a>
     </p>
 </blockquote>
+
+
+
+<hr>
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+        <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
+        <strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Diploma in: </strong>
+        <span style="display: block;">Full Stack Software Development (Advanced Front End)</span>
+    </p>
+    <p class="badgr-badge-participation" style="margin: 0; font-size: 14px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
+        <strong style="font-size: 14px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Finished: </strong>
+        November 30, 2024
+    <p style="margin: 16px 0; padding: 0;">
+        <a class="badgr-badge-verify" target="_blank" href="https://www.credential.net/70dae9b5-f880-434f-9af6-ba2c5d5e207b#acc.XfSWuONA" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size: 14px; font-weight: bold; width: 80px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">
+            VERIFY CERTIFICATION
+        </a>
+    </p>
+</blockquote>
+
