@@ -1,4 +1,4 @@
-<h1>Junior Full Stack Developer</h1>
+<h1>Full Stack Developer</h1>
 
 - 👋 Hi there! I’m @markohautala
 - 💻 Currently working on projects utilizing: React Native, AI and TypeScript
