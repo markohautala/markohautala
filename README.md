@@ -59,8 +59,6 @@
 ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-https://camo.githubusercontent.com/4cbcc5434676759b67404424204b1f9d8932bad550d3e12921e34a2c874a82f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41707077726974652d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d617070777269746526636f6c6f723d464433363645
-
 
 
 <hr>
