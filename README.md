@@ -1,9 +1,9 @@
 <h1>Full Stack Developer</h1>
 
-- 👋 Hi there! I’m @markohautala
+- 👋 Hi there! I’m @markolejman
 - 💻 Currently working on projects utilizing: React, Vue.js, Node.js, AI and Firebase
 - 💡 I enjoy creating smooth, well documented, user-friendly interfaces and strong backend systems. I have a really good attention to detail, a strong ability to analyze and an ability for quick problem-solving. I’m looking for opportunities to use my skills and grow in a collaborative team. I’m always eager to upskill, improve myself and learn new things.
-- 📫 How to reach me: markohautala@live.se
+- 📫 How to reach me: markolejman@live.se
   
 <hr>
 <h3>🛠️ Tech I have worked with:</h3>
